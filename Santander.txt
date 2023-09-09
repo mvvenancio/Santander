@@ -1,0 +1,6 @@
+Código da Pipeline ETL, começando com a extração de IDs de usuários de uma planilha,
+seguindo para uma transformação com a IA do GPT-4 da OpenAI, e culminando
+no carregamento desses dados transformados de volta ao 'Santander Dev Week 2023', 
+carregando uma mensagem no final do Santander.
+
+Também arquivo da planilha de usuários para carregamento.
